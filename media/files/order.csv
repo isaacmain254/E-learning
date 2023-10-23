@@ -1,0 +1,7 @@
+ID,first name,last name,email,address,postal code,city,created,updated,paid,stripe id
+17,Maina,Wambui,isaacmain72@gmail.com,Nairobi,15437,Nairobi,06/10/2023,06/10/2023,True,pi_3NyATZLeOSiFv2tS2SoWUtqt
+16,Maina,Wambui,isaacmain72@gmail.com,Nairobi,23356,Nairobi,06/10/2023,06/10/2023,True,
+15,maina,Wambui,isaacmain72@gmail.com,Queens,64789,Nairobi,06/10/2023,06/10/2023,False,
+14,Claire,Wambui,quet@gmail.com,Queens,4444,Queens,05/10/2023,05/10/2023,False,
+13,Claire,Wambui,quet@gmail.com,Queens,4567,Queens,05/10/2023,05/10/2023,False,
+12,Claire,kimachia,quet@gmail.com,Queens,77900,Queens,05/10/2023,05/10/2023,False,
