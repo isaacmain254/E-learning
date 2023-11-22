@@ -1,7 +1,7 @@
 E-Learning platform
 --------------------
 
-The E-learning platform allow instructors to create courses containing text, images, vidoes and files. Students can enroll to courses after creating an account on the platform. Each course contains a chat room  where for discussions or comments .
+The E-learning platform allows instructors to create courses containing text, images, videos, and files. Students can enroll in courses after creating an account on the platform. Each course contains a chat room  for discussions or comments.
 
 To run the project locally: clone this repository on your computer
 
@@ -13,14 +13,14 @@ To run the project locally: clone this repository on your computer
 
 create a virtual environment and install all packages from **requirements.txt**.
 
- Make sure your are in `$ ... E-learning ` directory
+ Make sure you are in the `$ ... E-learning ` directory
 
 ```python
-    #create virtual enviroment
+    #create a virtual environment
     python -m venv venv
 
-    #Activate the virtual environment, for linux users
-    #for windows users search on how to activate virtual enviroment
+    #Activate the virtual environment, for Linux users
+    # For Windows users search on how to activate a virtual environment
     source venv/bin/activate
 
     pip install -r requirements.txt
